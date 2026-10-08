@@ -1,4 +1,10 @@
 # Sito del cliente: piano Vetrina
+Cliente: Monica Ricci beauty & co., studio estetico, Roncadelle (BS). Stato: DEMO (bozza di proposta).
+
+## Tipo e stile
+- Tipo: V3 listino a schede (Trattamenti, Lo studio, Orari e dove).
+- Stile: «Insegna», preso dalla vetrina reale. Colori: bianco caldo #faf8f6, antracite #2b2d31, grafite #62646b, lilla #9c97c4, lilla scuro #5d5893. Caratteri: Cormorant Garamond (titoli), Hanken Grotesk (testo), Allura (solo monogramma «mr» e «beauty & co.»).
+- Idea guida: il cerchio lilla e il monogramma «mr» della vetrina, ridisegnati in SVG.
 Sito statico di una pagina. Tutti i dati stanno in `cliente.config.mjs`.
 
 ## Comandi
@@ -16,4 +22,6 @@ Sito statico di una pagina. Tutti i dati stanno in `cliente.config.mjs`.
 Cloudflare Pages collegato a questo repository, cartella di output `site`, nessun comando di build (la cartella `site` è già costruita e va committata). Vedi `SETUP-CLIENTE.md`.
 
 ## Crediti e skill
-Skill, licenze e versioni usate: vedi sezione sotto, da aggiornare.
+- Font (SIL Open Font License 1.1, da @fontsource): Cormorant Garamond 500 normale e corsivo, Allura 400, Hanken Grotesk 400 e 600.
+- Emblema «mr» e cerchio: SVG disegnato per il sito, ispirato all'insegna del cliente.
+- Skill: nessuna in `.claude/skills/`.

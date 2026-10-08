@@ -3,7 +3,7 @@ Cliente: Monica Ricci beauty & co., studio estetico, Roncadelle (BS). Stato: DEM
 
 ## Tipo e stile
 - Tipo: V3 listino a schede (Trattamenti, Lo studio, Orari e dove).
-- Stile: «Insegna», preso dalla vetrina reale. Colori: bianco caldo #faf8f6, antracite #2b2d31, grafite #62646b, lilla #9c97c4, lilla scuro #5d5893. Caratteri: Cormorant Garamond (titoli), Hanken Grotesk (testo), Allura (solo monogramma «mr» e «beauty & co.»).
+- Stile: «Vetrina di sera» (scuro). Colori: notte #121115, vetro #1b1a20, gesso #ece7e1, fumo #9a96a3, lilla #aaa4dc. Caratteri: Cormorant Garamond (titoli), Hanken Grotesk (testo), Allura (accenti). Animazioni: cerchio lilla dipinto a pennello, «mr» scritto a mano in SVG, riflesso sul vetro, luce che segue il puntatore, stato «aperto ora» dagli orari. Rispettano «riduci movimento».
 - Idea guida: il cerchio lilla e il monogramma «mr» della vetrina, ridisegnati in SVG.
 Sito statico di una pagina. Tutti i dati stanno in `cliente.config.mjs`.
 
